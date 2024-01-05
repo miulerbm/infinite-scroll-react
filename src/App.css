@@ -1,0 +1,9 @@
+.app {
+  text-align: center;
+}
+
+.todo-card {
+  background: rgb(225, 239, 17);
+  padding: 1rem;
+  font-size: 2rem;
+}
